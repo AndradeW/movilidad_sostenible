@@ -150,4 +150,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# IntelliJ y NetBeans
+*.iml
+*.ipr
+.idea/
+nbproject/
+
+# Ant
+build.xml
+manifest.mf
+
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,jetbrains,netbeans
