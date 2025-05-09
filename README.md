@@ -13,7 +13,7 @@ Desarrollar un sistema de simulación de movilidad urbana centrado en:
 ## 🛠️ Tecnologías
 
 - Lenguaje: Java 17
-- Sistema de construcción: Maven
+- Sistema de construcción: Maven (TODO)
 - Estructuras de datos utilizadas: `List`, `Map`, `Set`
 - Entorno: Aplicación de consola (extensible a web/móvil)
 
@@ -53,11 +53,11 @@ movilidad-sostenible/
 - Preparación para integrar datos reales desde sensores, archivos o APIs.
 
 ## 🌱 Impacto y escalabilidad
-- Este proyecto puede escalar hacia soluciones reales mediante:
+Este proyecto puede escalar hacia soluciones reales mediante:
 - Integración con bases de datos geoespaciales y sensores IoT.
 - Transformación en una aplicación web con Spring Boot y bases de datos SQL/NoSQL.
 - Creación de una app móvil para los usuarios, con funciones como:
-- Información en tiempo real sobre transporte.
-- Rutas sugeridas.
-- Gamificación para fomentar el uso de la movilidad sostenible.
+  -  Información en tiempo real sobre transporte.
+  - Rutas sugeridas.
+  - Gamificación para fomentar el uso de la movilidad sostenible.
 - Alianzas con gobiernos locales, universidades o startups interesadas en movilidad urbana.
