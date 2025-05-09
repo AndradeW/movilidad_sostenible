@@ -45,14 +45,14 @@ movilidad-sostenible/
    cd movilidad-sostenible
    ```
 
-📊 Funcionalidades del PMV
+## 📊 Funcionalidades del PMV
 - Simulación de estaciones de bicicletas y su capacidad.
 - Registro y gestión de rutas urbanas con paradas intermedias.
 - Uso de estructuras de datos eficientes (List, Map, Set) para modelar entidades del sistema.
 - Carga de datos simulados como punto de partida para la planificación.
 - Preparación para integrar datos reales desde sensores, archivos o APIs.
 
-🌱 Impacto y escalabilidad
+## 🌱 Impacto y escalabilidad
 - Este proyecto puede escalar hacia soluciones reales mediante:
 - Integración con bases de datos geoespaciales y sensores IoT.
 - Transformación en una aplicación web con Spring Boot y bases de datos SQL/NoSQL.
